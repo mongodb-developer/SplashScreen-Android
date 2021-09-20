@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="SplashActivity" parent="Theme.AppCompat.NoActionBar">
+        <!--Customize your theme here. splash screen background color-->
+        <item name="android:windowSplashScreenBackground">#FFFFFF</item>
+
+        <item name="android:windowSplashScreenIconBackgroundColor">#000000</item>
+
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_realm_logo_250</item>
+
+        <item name="android:windowSplashScreenBrandingImage">@drawable/relam_horizontal</item>
+    </style>
+</resources>
