@@ -7,4 +7,4 @@ This repository demonstrate how to build splash screen using SplashScreenAPI int
 
 ## License
 
-This project is licensed under the terms of the [Apache license 2.0](./LICENSE.txt).
+This project is licensed under the terms of the [Apache license 2.0](./LICENSE).
